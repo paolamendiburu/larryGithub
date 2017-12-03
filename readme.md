@@ -1,5 +1,5 @@
 # larry Ploter
 
-Esta serue de libros cuentan la historia de gran hacker
+Esta serie de libros cuentan la historia de un gran hacker llamado Larry Plotter
 
-**Paola Mendiburu**
+**Paola Mendiburu**, Git lover.
