@@ -1,5 +1,7 @@
-# larry Ploter
+# larry Ploter Saga
 
-Esta serue de libros cuentan la historia de gran hacker
+Esta serie de libros cuentan la historia de gran hacker
 
-**Paola Mendiburu**
+**Paola Mendiburu**, Larry Plotter fan.
+
+Diciembre 2017
